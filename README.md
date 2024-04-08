@@ -27,3 +27,9 @@ Now you need add and commit on git
     git add (name_of_file)
     git commit -m (your_message_commit)
 ```
+
+Now to finished the feature, you need this command bellow
+
+```bash
+    git flow feature finish css
+```
