@@ -33,3 +33,17 @@ Now to finished the feature, you need this command bellow
 ```bash
     git flow feature finish css
 ```
+
+How to send your code to release test branch, see command bellow
+
+```bash
+    git flow release start 1.0
+```
+
+Before this your branch is switched to release/1.0 on terminal
+
+Then you need finally your release using the command bellow
+
+```bash
+    git flow release finish 1.0
+```
