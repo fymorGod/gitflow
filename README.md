@@ -7,3 +7,5 @@
 ```bash
     apt-get install git-flow
 ```
+
+Your branch initial will be -> develop
